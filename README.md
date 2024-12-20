@@ -1,5 +1,5 @@
 # Aster
-For now, Aster aims to use LLM to execute the functions requested by the user in real-time on the website via WebSocket.
+For now, Aster aims to use LLM to understand the message from the user and execute the functions requested by the user in real-time on the website via WebSocket.
 
 [English](#english) | [Turkish](#turkish)
 
