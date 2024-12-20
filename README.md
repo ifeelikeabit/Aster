@@ -104,7 +104,7 @@ The following technologies were used in this project:
 
 ---
 
-## Not
+## Note
 
 This project is currently a learning project. The file structure and the provided setup might not be great, so please bear with me. Feel free to reach out via email if you have any feedback.
 
