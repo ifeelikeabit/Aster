@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "groq-sdk": "^0.9.1",
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "start": "node system/server.js"
+  }
+}
