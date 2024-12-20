@@ -110,13 +110,13 @@ This project is currently a learning project. The file structure and the provide
 
 ---
 
-## Lisans
+## Licence
 
 This project is licensed under the **GNU Licence** For more information, check the [LICENSE](LICENSE) file.
 
 ---
 
-## İletişim
+## Contact
 
 If you have any questions about the project, feel free to reach out to me through the following:
 
